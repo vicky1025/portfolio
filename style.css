@@ -1,0 +1,23 @@
+.subtitle{
+    color: blueviolet;
+}
+body{
+    background-color:rgb(184, 184, 245);
+    ;
+}
+#button{
+    background-color: black;
+    color:cyan;
+}
+#title{
+    color:darkblue;
+    text-align:center;
+
+}
+.para-text{
+    text-align: center;
+}
+#button:hover{
+    color: rgb(228, 201, 95);
+    padiing: 20px 30px;
+}
